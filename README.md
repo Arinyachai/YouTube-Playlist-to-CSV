@@ -14,7 +14,7 @@ The YouTube Playlist Data Extraction Tool is a Python script that utilizes the Y
 Installation:
 1. Install Python 3.x from https://www.python.org/downloads/
 2. Install required Python packages using pip:
-3. Obtain a Google API Key from the Google Cloud Console: (https://console.cloud.google.com/)
+3. Obtain a Google API Key from the Google Cloud Console: https://console.cloud.google.com/
 4. Clone or download the YouTube Playlist Data Extraction Tool from GitHub
 5. Update the script (`get_youtube_playlist.py`) with your Google API Key.
 
@@ -27,13 +27,7 @@ Usage:
 6. Access the CSV file to view and analyze the extracted video data.
 
 
-Troubleshooting:
-- Issue: Error importing module 'tqdm'
-  Solution: Install the 'tqdm' module using pip:
-    ```
-    pip install tqdm
-    ```
 
 FAQs:
 - Q: How do I obtain a Google API Key?
-  A: Follow the instructions provided in the Google Cloud Console to create and obtain a Google API Key: [link_to_instructions]
+  A: Follow the instructions provided in the Google Cloud Console to create and obtain a Google API Key: https://console.cloud.google.com/
