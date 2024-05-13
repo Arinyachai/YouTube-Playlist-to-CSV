@@ -14,8 +14,8 @@ The YouTube Playlist Data Extraction Tool is a Python script that utilizes the Y
 Installation:
 1. Install Python 3.x from https://www.python.org/downloads/
 2. Install required Python packages using pip:
-3. Obtain a Google API Key from the Google Cloud Console: [link_to_console]
-4. Clone or download the YouTube Playlist Data Extraction Tool from GitHub: [link_to_repository]
+3. Obtain a Google API Key from the Google Cloud Console: (https://console.cloud.google.com/)
+4. Clone or download the YouTube Playlist Data Extraction Tool from GitHub
 5. Update the script (`get_youtube_playlist.py`) with your Google API Key.
 
 Usage:
